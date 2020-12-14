@@ -1,0 +1,17 @@
+# 公共配置
+############################################################
+#
+# actuator  配置
+#
+############################################################
+management:
+  endpoints:
+    web:
+      exposure:
+        # 打开所有监控接口
+        include: '*'
+  endpoint:
+    env:
+      enabled: false
+    health:
+      show-details: always
