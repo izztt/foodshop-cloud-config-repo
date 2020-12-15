@@ -4,4 +4,4 @@ mysql:
   password: '{cipher}965ba0d5a1059da6cb3ceb2c7eeb0e9cace54a6aa964dbc8971d31b7c1de59c1'
 # 功能开关 - 开启/关闭 注册功能
 registration:
-  enable: true
+  enable: false
