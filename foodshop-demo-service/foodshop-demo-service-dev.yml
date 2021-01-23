@@ -1,4 +1,6 @@
 name: foodshop-demo-service
+env: dev
+desc: foodshop-demo-service dev配置文件
 
 # 数据库连接串&密码
 mysql:
