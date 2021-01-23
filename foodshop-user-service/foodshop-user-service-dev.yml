@@ -1,3 +1,4 @@
+name: demo
 # 数据库连接串&密码
 mysql:
   url: 'jdbc:mysql://192.168.0.195:3306/food_shop?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true'
